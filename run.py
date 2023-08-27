@@ -4,7 +4,7 @@ import streamlit as st
 # Load dataset
 merged_data = pd.read_csv("merged_data.csv")
 # Load the pipeline using joblib 
-transformer, regressor = joblib.load('sale_pipeline.joblib')
+model = joblib.load('sale_pipeline.joblib')
 
 # Create the web app
 def main():
@@ -41,10 +41,10 @@ def main():
     if st.button('Predict Sales'):
         try:
             # Preprocess input data
-            data_encoded = transformer.transform(data)
+            data_encoded =model.transform(data)
             
             # Make predictions using the regressor
-            prediction = regressor.predict(data_encoded)
+            prediction = model.predict(data_encoded)
             st.success(f'Predicted Sales: {prediction[0]:.2f}')
         except Exception as e:
             st.error(f"An error occurred: {e}")
