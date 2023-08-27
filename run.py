@@ -7,8 +7,7 @@ import streamlit as st
 merged_data = pd.read_csv("merged_data.csv")
 
 # Load the pipeline using joblib 
-with open("sale_pipeline.joblib", 'rb') as file:
-    transformer, regressor = joblib.load(file)
+model = joblib.load('sale_pipeline')
 
 # Create the web app
 def main():
