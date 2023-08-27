@@ -7,7 +7,7 @@ import streamlit as st
 merged_data = pd.read_csv("merged_data.csv")
 
 # Load the pipeline
-with open("sale_pipeline (1).pkl", 'rb') as file:
+with open("sale_pipeline.pkl", 'rb') as file:
     pipeline = pickle.load(file)
 
 # Define a function to preprocess input data
