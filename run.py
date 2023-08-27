@@ -5,7 +5,7 @@ import streamlit as st
 # Load dataset
 merged_data = pd.read_csv("merged_data.csv")
 # Load the pipeline using joblib 
-model = joblib.load('sale_pipeline.joblib')
+model = joblib.load('sale_pipeline')
 
 # Create the web app
 def main():
