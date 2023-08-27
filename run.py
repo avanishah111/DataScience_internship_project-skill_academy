@@ -1,14 +1,13 @@
 # Import libraries
 import pandas as pd
-import pickle
 import streamlit as st
+from joblib import load
 
 # Load dataset
 merged_data = pd.read_csv("merged_data.csv")
 
-# Load the pipeline (assuming it's stored as a tuple: (transformer, regressor))
-with open("sale_pipeline.pkl", 'rb') as file:
-    transformer, regressor = pickle.load(file)
+# Load the pipeline using joblib 
+transformer, regressor = load("sale_pipeline.joblib")
 
 # Create the web app
 def main():
