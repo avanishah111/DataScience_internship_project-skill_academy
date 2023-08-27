@@ -1,6 +1,6 @@
 # Import libraries
 import pandas as pd
-import pickle
+import joblib
 import streamlit as st
 
 # Load dataset
