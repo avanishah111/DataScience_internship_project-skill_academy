@@ -1,7 +1,6 @@
 # Import libraries
 import pandas as pd
 import streamlit as st
-import joblib
 from joblib import load
 
 # Load dataset
