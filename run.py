@@ -1,7 +1,7 @@
 # Import libraries
 import pandas as pd
 import streamlit as st
-from joblib import load
+
 
 # Load dataset
 merged_data = pd.read_csv("merged_data.csv")
