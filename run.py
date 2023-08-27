@@ -7,7 +7,9 @@ from joblib import load
 merged_data = pd.read_csv("merged_data.csv")
 
 # Load the pipeline using joblib 
-transformer, regressor = load("sale_pipeline.joblib")
+# Load the pipeline (assuming it's stored as a tuple: (transformer, regressor))
+with open("sale_pipeline.joblib", 'rb') as file:
+    transformer, regressor = joblib.load(file)
 
 # Create the web app
 def main():
