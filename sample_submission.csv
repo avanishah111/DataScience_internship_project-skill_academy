@@ -1,0 +1,21 @@
+,Order ID,Order Date,Customer Name,City,Country,Region,Segment,Ship Date,Ship Mode,State,Days to Ship,Product Name,Discount,Actual Discount,Profit,Quantity,Category,Sub-Category
+743,AZ-2011-7213826,2013-08-16,Molly Palmer,Harrogate,United Kingdom,North,Corporate,8-21-13,Economy,England,5,"Tenex File Cart, Single Width",0.0,0.0,24,2,Office Supplies,Storage
+4883,AZ-2013-2357064,2015-10-01,Ruby Blomfield,Rome,Italy,South,Consumer,10-6-15,Economy,Lazio,5,"HP Fax Machine, Digital",0.0,0.0,0,5,Technology,Copiers
+4176,AZ-2013-5932628,2015-06-29,Patrick Atkinson,Klagenfurt,Austria,Central,Home Office,7-5-15,Economy,Carinthia,6,"Avery 3-Hole Punch, Durable",0.0,0.0,21,2,Office Supplies,Binders
+6942,AZ-2014-1891559,2016-09-01,Ralph Holmes,Bath,United Kingdom,North,Consumer,9-3-16,Economy Plus,England,2,"Fiskars Ruler, Serrated",0.0,0.0,4,1,Office Supplies,Supplies
+3017,AZ-2012-6596978,2014-11-16,Caitlin Schmidt,Bristol,United Kingdom,North,Corporate,11-20-14,Economy,England,4,"Stanley Highlighters, Easy-Erase",0.0,0.0,5,1,Office Supplies,Art
+2945,AZ-2012-1883755,2014-11-07,Rebecca Cook,Berlin,Germany,Central,Corporate,11-8-14,Priority,Berlin,1,"Fellowes Folders, Single Width",0.2,21.2,28,5,Office Supplies,Storage
+6526,AZ-2014-8976002,2016-07-26,Rory Jess,Vienna,Austria,Central,Home Office,7-28-16,Economy Plus,Vienna,2,"Eldon Photo Frame, Durable",0.0,0.0,46,3,Furniture,Furnishings
+4742,AZ-2013-9800622,2015-09-17,Lori Miller,Duisburg,Germany,Central,Consumer,9-20-15,Priority,North Rhine-Westphalia,3,"Avery Binder, Durable",0.0,0.0,2,3,Office Supplies,Binders
+4296,AZ-2013-5949310,2015-07-26,Jade Daniels,Seville,Spain,South,Corporate,7-28-15,Economy Plus,Andalusía,2,"Apple Headset, VoIP",0.1,6.6,3,1,Technology,Phones
+518,AZ-2011-7695869,2013-06-16,Lauren Knight,London,United Kingdom,North,Consumer,6-18-13,Economy Plus,England,2,"Tenex Shelving, Industrial",0.1,9.9,10,2,Office Supplies,Storage
+1383,AZ-2011-9121322,2013-12-20,Jacob Carter,Oullins,France,Central,Consumer,12-24-13,Economy,Auvergne-Rhône-Alpes,4,"Cameo Interoffice Envelope, Recycled",0.0,0.0,78,4,Office Supplies,Envelopes
+1952,AZ-2012-9503430,2014-05-23,Aidan Hayward,London,United Kingdom,North,Corporate,5-28-14,Economy Plus,England,5,"SanDisk Mouse, Bluetooth",0.1,10.3,1,3,Technology,Accessories
+5493,AZ-2014-5295692,2016-01-15,Lamar Lockhart,Reutlingen,Germany,Central,Consumer,1-20-16,Economy Plus,Baden-Württemberg,5,"Apple Headset, Full Size",0.0,0.0,101,8,Technology,Phones
+1515,BN-2012-3611011,2014-01-17,Charlie Wells,Assen,Netherlands,Central,Home Office,1-23-14,Economy,Drenthe,6,"Boston Sketch Pad, Easy-Erase",0.5,85.5,-72,7,Office Supplies,Art
+2354,AZ-2012-3240635,2014-08-05,Henry Pedder,Poole,United Kingdom,North,Consumer,8-11-14,Economy,England,6,"Acco Binder, Clear",0.0,0.0,5,1,Office Supplies,Binders
+2615,BN-2012-4253204,2014-09-06,Naomi Hancock,Lausanne,Switzerland,Central,Corporate,9-10-14,Economy,Vaud,4,"Eldon Shelving, Industrial",0.0,0.0,4,3,Office Supplies,Storage
+222,AZ-2011-8369879,2013-03-30,Alexis Code,Troisdorf,Germany,Central,Corporate,4-3-13,Economy,North Rhine-Westphalia,4,"Canon Personal Copier, Digital",0.0,0.0,14,2,Technology,Copiers
+1454,BN-2011-8019925,2013-12-29,Matthew Barker,Plaisance-du-Touch,France,Central,Consumer,1-3-14,Economy,Languedoc-Roussillon-Midi-Pyrénées,5,"Sharp Fax and Copier, High-Speed",0.15,42.6,-10,2,Technology,Copiers
+5709,BN-2014-3375705,2016-02-18,Spencer Hull,Groningen,Netherlands,Central,Consumer,2-19-16,Priority,Groningen,1,"HP Copy Machine, Color",0.5,367.5,-235,6,Technology,Copiers
+3214,AZ-2012-568534,2014-12-18,Naomi Hancock,Worthing,United Kingdom,North,Corporate,12-22-14,Economy,England,4,"Panasonic Inkjet, Durable",0.0,0.0,250,4,Technology,Machines
