@@ -42,10 +42,10 @@ def main():
     if st.button('Predict Sales'):
         try:
             # Preprocess input data
-            data_encoded =model.transform(data)
+    
             
             # Make predictions using the regressor
-            prediction = model.predict(data_encoded)
+            prediction = model.predict(data)
             st.success(f'Predicted Sales: {prediction[0]:.2f}')
         except Exception as e:
             st.error(f"An error occurred: {e}")
